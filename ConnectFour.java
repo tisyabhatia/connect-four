@@ -1,11 +1,3 @@
-/** 
- * Tisya Bhatia
- * 1.29.2025
- * CSE 123
- * C1: Abstract Strategy Games
- * TA: Shreya Pandey
- */
-
 import java.util.*;
 
 // This class enables the user to play a game of Connect Four. It includes functionality for users
